@@ -13,3 +13,11 @@ button {
     background-color: rgb(252, 252, 190);
     color: black;
 }
+
+.passo {
+    display: none;
+}
+
+.passo.ativo {
+    display:block;
+}
